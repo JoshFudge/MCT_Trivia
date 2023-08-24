@@ -1,0 +1,114 @@
+html {
+    background-color: rgb(135, 172, 241);
+}
+
+#questionDiv {
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+h1 {
+    text-align: center;
+    font-family: cursive;
+}
+
+ul {
+    list-style: none;
+}
+
+#question{
+    font-family: cursive;
+}
+
+ul li {
+    font-family: cursive;
+    font-size: 200%;
+    text-align: left;
+}
+
+#submit {
+    width: 10em;
+    margin-left: auto;
+    margin-bottom: 2em;
+}
+
+div {
+    background-color: rgb(135, 172, 241);
+}
+
+#quizWindow {
+    border: 2px solid black;
+    text-align:center;
+    padding-bottom: 50px;
+    
+}
+
+#infoText {
+    background-color: rgb(254, 255, 200);
+    border: 2px solid black;
+    text-align:center;
+    border-radius: 25px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(254, 255, 200);
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    font-size:150% ;   
+    font-family: cursive;
+}
+
+footer{
+    margin-top: auto;
+    background-color: rgb(254, 255, 200);
+    border: 2px solid black;
+    text-align:center;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(254, 255, 200);
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;   
+}
+#footer{
+    background-color: rgb(254, 255, 200);
+}
+
+#footerP {
+    font-weight: bold;
+    font-size: 130%;
+}
+
+#questionIMG {
+    background-color: rgb(254, 255, 200);
+    border: 2px solid black;
+    border-radius: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;   
+}
+
+#warning {
+    color:rgb(255, 8, 0);
+    font-size: large;
+    font-weight: bold;
+}
+
+.InfoBoard {
+    text-align:center;
+    background: rgb(94,65,22);
+    background: linear-gradient(0deg, rgba(94,65,22,0.9444152661064426) 51%, rgba(68,89,26,0.9500175070028011) 67%, rgba(32,122,32,0.9360119047619048) 74%);
+    margin-top: 1em;
+    border: 3px solid black;
+    
+}
+
+img{
+    width: 60%;
+    padding-top: 0.5em;
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+
+
+
